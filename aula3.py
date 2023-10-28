@@ -10,3 +10,4 @@ print("Lucas \"Rocha\" ")
 print(r"Lucas \"Rocha ")
 
 print(' "Lucas Rocha" ')
+print('Explícito', 'é', 'melhor " do que implícito')
