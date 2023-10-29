@@ -23,11 +23,3 @@ print(True and False and True)
 print(True and 0 and True)
 print(False or True)
 
-print('teste')
-print(1 and 1)
-if 0 and 1:
-     print(True and 1)
-elif 0 and 0:
-     print('verdadeiro')
-elif 1 and 1:
-     print(True and 1 and False)
