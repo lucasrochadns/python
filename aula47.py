@@ -1,4 +1,4 @@
-frase = 'uuuaaaooo'
+frase = 'aaaooo'
 
 i = 0
 qtd_apareceu_mais_vezes = 0
