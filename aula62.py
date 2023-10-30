@@ -3,3 +3,6 @@ nomes = ('Lucas', 'Rocha', 'Dos', 'Santos')
 
 for exemplo in nomes:
     print(exemplo)
+
+lista = list(nomes)
+tupla = tuple(lista)
