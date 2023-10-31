@@ -12,3 +12,4 @@ Operação ternária (condicional de uma linha)
 
 print('Valor' if False else 'Outro valor' if False else 'Fim')
 #condição ternaria
+
